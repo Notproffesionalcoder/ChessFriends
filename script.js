@@ -1,5 +1,3 @@
-This file includes playing the moves
-Code below:
 angular.module('myApp', []).controller('GameController', ['$scope', function($scope) {
 	
 	//Draw the board game
